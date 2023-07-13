@@ -1,1 +1,2 @@
 This repository contains all the image datasets(both wild and clear backgrounds) and the model's source codes regarding the research paper.
+The model achieves a very high accuracy while classifying images of four different classes (both with natural and clear backgrounds).
